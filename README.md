@@ -7,5 +7,5 @@
 </p>
 
 <h3 align="center">Github Stats:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aj3sh" alt="aj3sh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aj3sh&theme=onedark" alt="aj3sh" /></a> </p>
 
