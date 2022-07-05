@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ajesh Sen Thapa</h1>
-<p>Senior Django Developer</p>
+<p>Python Developer | Software Engineer</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj3sh&label=Profile%20views&color=0e75b6&style=flat" alt="aj3sh" /> </p>
 
 <h3 align="left">Connect with me:</h3>
